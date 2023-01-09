@@ -1,0 +1,211 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card{
+    width: 200px;
+}
+.card-text{
+    font-weight: 12px;
+ 
+}
+.ctext{
+    padding: 10px 20px;
+}
+.ctext{
+    padding: 20px 0px;
+}
+.cardlink{
+    color: blue;
+    text-decoration: none;
+}
+.claimp{
+    font-family: Noto Sans;
+    color: blue;
+    margin-top: 93px;
+    font-size: 27px;
+}
+.geth{
+    font-family: Lexend Deca;
+    font-size: 43px;
+}
+.geths{
+    text-decoration: underline orange solid 7px;
+}
+.uaep{
+    font-family: Noto Sans;
+    color: blue;
+    font-size: 27px;
+    margin-top: 60px;
+}
+
+.weh{
+    font-family: Lexend Deca;
+    color: rgb(146, 141, 141);
+    font-size: 27px;
+
+}
+.gbtn1{
+    
+        background-color: blue;
+        color:white;
+        font-family: Noto Sans;
+        border:none;
+        padding:10px 20px;
+        text-decoration: none;
+        
+      
+}
+#bpic{
+
+}
+.gbtn2{
+    
+    background-color: white;
+    color:blue;
+    font-family: Noto Sans;
+    border:none;
+    padding:10px 20px;
+    text-decoration: none;
+    border:1px solid blue;
+  
+}
+#searchtop{
+    width:300px;
+    border:2px solid blue;
+    font-family: Noto Sans;
+    color:blue;
+}
+#sdiv{
+    text-align: -webkit-right;}
+
+#search{
+    border:1px solid blue;
+    color: blue;
+  
+}
+#col2{
+    color:white;
+}
+.watchthe{
+    text-align: center;
+    color:blue;
+    font-size: 24px;
+}
+.dedicated{
+    text-align: center;
+    text-decoration: underline orange solid 7px;
+    font-family: Lexend Deca;
+    font-size: 24px;
+
+}
+.tour{
+    text-align: center;
+    font-family: Lexend Deca;
+    font-size: 24px;
+
+}
+.ourserv{
+    font-family: Noto Sans;
+    color: rgb(146, 141, 141);
+    font-size: 23px;
+}
+#cen{
+    justify-content: center;
+}
+
+#cardsec{
+    width: 310px;
+    border:none;
+}
+
+.card-link{
+    color:orange;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+#learn{
+    font-family: Noto Sans;
+    color: rgb(70, 67, 67);
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+#claim{
+    
+        font-family: Noto Sans;
+        color: blue;
+        font-size: 19px;
+        margin-top: 60px;
+    
+}
+
+#cardbtm{
+    width: 400px;
+}
+#cardbtml{
+    width: 400px;
+    margin-top: 15px;
+    border:none;
+}
+.lastp{
+
+        text-align: center;
+        text-decoration: underline orange solid 7px;
+        font-family: Lexend Deca;
+        font-size: 24px;
+}
+.lastp1{
+    text-align: center;
+    font-family: Lexend Deca;
+    font-size: 24px;
+}
+.rowcen{
+    justify-content: center;
+}
+.cardimg{
+    text-align: center;
+}
+
+#rowcen{
+    justify-content: center;
+    font-size: 22px;
+    font-family: 'Lexend Deca';
+    margin-top: 70px;
+
+    /* text-decoration: 2px solid orange underline; */
+}
+#rowc{
+    font-size: 22px;
+    font-family: 'Lexend Deca';
+    text-decoration: 6px solid orange underline;
+}
+.cenrow{
+justify-content: space-between;}
+.hbtm{
+    border-left: 5px solid blue;
+    font-size: 20px;
+    padding-left: 23px;
+}
+
+#searchbar{
+    width: 400px;
+    height: 70px;
+    border:none;
+    
+}
+.lit{
+    font-family: Noto Sans;
+    color:rgb(162, 159, 159);
+    font-weight: 700;
+}
+
+/* @media (max-width:412px) {
+    #searchtop{
+        width:600px;
+        text
+    }
+} */
